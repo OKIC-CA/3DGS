@@ -57,7 +57,7 @@ The accurate reconstruction of dynamic street scenes is critical for application
 
 <div align="left">
 
-## 🗓️ News
+## 🗓️ Acknowledgment
 
 <p>[2025.03.15] Many thanks to <a href="https://github.com/wei872">Longfei Wei</a> and <a href="https://github.com/jianfeizhang">Jianfei Zhang</a> for the improvements they made to the code</p>
 
@@ -65,6 +65,7 @@ The accurate reconstruction of dynamic street scenes is critical for application
 
 <p>Some amazing enhancements will also come out this year.</p>
 
+This project largely references [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting) and [ACMH/ACMM](https://github.com/GhiXu/ACMH). Thanks for their amazing work!
 </div>
 
 
@@ -100,8 +101,6 @@ The accurate reconstruction of dynamic street scenes is critical for application
 
 ## 🚀 Setup
 
-#### Tested Environment
-window 11, GeForce 4070, CUDA 12.1 (tested), C++17
 
 #### Clone the repo.
 ```
@@ -165,11 +164,5 @@ https://drive.google.com/file/d/1XbEOvhHi-3tWbAkUeg2Ecyi8zHMvHsbr/view?usp=drive
 ```
 </div>
 
-<div align="left">
 
-## 🎫 Acknowledgment
-
-This project largely references [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting) and [ACMH/ACMM](https://github.com/GhiXu/ACMH). Thanks for their amazing work!
-
-</div>
 
