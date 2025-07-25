@@ -10,7 +10,7 @@
 ```
   @article{GaussianMove2025,
     author = {Peizhen Zheng and Longfei Wei and Dongjing Jiang and Jianfei Zhang},
-    title = {{3D Gaussian} Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction},
+    title = {3D Gaussian Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction},
     journal = {arXiv: 2503.12001},
     year = {2025},
     doi = {10.48550/arXiv.2503.12001}
