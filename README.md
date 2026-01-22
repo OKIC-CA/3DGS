@@ -6,7 +6,7 @@
 </div>
 
 
-## BibTeX
+<!--## BibTeX
 ```
   @article{GaussianMove2025,
     author = {Peizhen Zheng and Longfei Wei and Dongjing Jiang and Jianfei Zhang},
@@ -16,6 +16,7 @@
     doi = {10.48550/arXiv.2503.12001}
   }
 ```
+-->
 
 <table>
   <tr>
