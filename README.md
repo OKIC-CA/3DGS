@@ -59,9 +59,9 @@ The accurate reconstruction of dynamic street scenes is critical for application
 
 ## 🗓️ Acknowledgment
 
-<p>[2025.03.15] Code Authors: <a href="https://github.com/wei872">Longfei Wei</a> and <a href="https://github.com/jianfeizhang">Jianfei Zhang</a></p>
+<!-- <p>[2025.03.15] Code Authors: <a href="https://github.com/wei872">Longfei Wei</a> and <a href="https://github.com/jianfeizhang">Jianfei Zhang</a></p>
 
-<p>[2025.03.15] Code Reviewer: <a href="https://github.com/pzheng460">Peizhen Zheng</a></p>
+<p>[2025.03.15] Code Reviewer: <a href="https://github.com/pzheng460">Peizhen Zheng</a></p> -->
 
 <p>[2024.10.10] Many thanks to <a href="https://github.com/kcheng1021/GaussianPro">GaussianPro</a>, Provide code for the project</p>
 
