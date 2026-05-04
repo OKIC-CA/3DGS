@@ -9,7 +9,7 @@
 <!--## BibTeX
 ```
   @article{GaussianMove2025,
-    author = {Zheng, Peizhen and Jiang, Dongjing and Jiao, Qingchong and Zhang, Flynnwell Jianfei},
+    author = {Zheng, Peizhen and Jiang, Dongjing and Jiao, Qingchong, EL Bouchtaoui, Redouane and Zhang, Flynnwell Jianfei},
     title = {3D Gaussian Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction},
     journal = {arXiv: 2503.12001},
     year = {2025},
