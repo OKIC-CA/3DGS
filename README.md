@@ -9,7 +9,7 @@
 <!--## BibTeX
 ```
   @article{GaussianMove2025,
-    author = {Peizhen Zheng and Longfei Wei and Dongjing Jiang and Jianfei Zhang},
+    author = {Zheng, Peizhen and Jiang, Dongjing and Jiao, Qingchong and Zhang, Flynnwell Jianfei},
     title = {3D Gaussian Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction},
     journal = {arXiv: 2503.12001},
     year = {2025},
@@ -60,7 +60,7 @@ The accurate reconstruction of dynamic street scenes is critical for application
 
 ## 🗓️ Acknowledgment
 
-<!-- <p>[2025.03.15] Code Authors: <a href="https://github.com/wei872">Longfei Wei</a> and <a href="https://github.com/jianfeizhang">Jianfei Zhang</a></p>
+<!-- <p>[2025.03.15] Code Authors: <a href="https://github.com/wei872">Longfei Wei</a>, <a href="https://github.com/flynnwellzhang">Flynnwell Jianfei Zhang</a>, and <a href="https://github.com/qingchongjiao">Qingchong Jiao</a></p>
 
 <p>[2025.03.15] Code Reviewer: <a href="https://github.com/pzheng460">Peizhen Zheng</a></p> -->
 
@@ -107,7 +107,7 @@ This project largely references [3D Gaussian Splatting](https://github.com/graph
 
 #### Clone the repo.
 ```
-git clone https://github.com/ThinkXca/3DGS.git --recursive
+git clone https://github.com/OKIC-CA/3DGS.git --recursive
 ```
 
 #### Environment setup 
